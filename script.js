@@ -1,0 +1,1 @@
+console.log('HOODWEARS website loaded');
